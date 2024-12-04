@@ -32,7 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Screen shot of archiving and assigning users to their specific groups. Also assigned premissions that are allowed for that individual.
+Screen shot of archiving and assigning users to their specific groups. Also assigned permissions that are allowed for that individual.
 </p>
 <br />
 
